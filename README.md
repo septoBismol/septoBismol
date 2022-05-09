@@ -1,6 +1,7 @@
 # this is a read me file that is on my profile page if you didnt know.
 
-hi, im septic. i am 4 years old and learning C++ and python.
+hi, im septic. i am 4 years old and learning C++ and python
+[.](https://www.youtube.com/watch?v=99iH0E4l7IE)
 
 I HATE COMPUTERS btw if you didnt know i fucking hate them all
 
