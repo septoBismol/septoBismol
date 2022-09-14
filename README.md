@@ -1,6 +1,6 @@
 # Septic Says.......
 
-hi, im septic. i am 4 years old and learning C++ mainly and some python i guess
+hi, im septic. i am 5 years old and learning C++ mainly and some python i guess
 
 [click on this link for a cool video i like](https://www.youtube.com/watch?v=99iH0E4l7IE)
 
